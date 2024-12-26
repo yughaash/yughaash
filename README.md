@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm yughaash</h1>
 <h3 align="center">A software developer from SriLanka</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yughaash&label=Profile%20views&color=0e75b6&style=flat" alt="yughaash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yugash&label=Profile%20views&color=0e75b6&style=flat" alt="yugash" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React native**
